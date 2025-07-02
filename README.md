@@ -8,7 +8,7 @@ The application allows users to manage an inventory system with full CRUD operat
 1. Inventory
    1. Perform full CRUD operations on an inventory
    2. Search items by name
-2. Shopping Cart:
+2. Shopping Cart
    1. Add items from inventory to cart
    2. Update quantities or remove items
    3. Calculate subtotal and total cost
