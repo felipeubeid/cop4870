@@ -1,6 +1,6 @@
 # COP 4870 – Full Stack Application Development with C# Project
 
-This is a semester-long project developed for COP4870 in Spring 2025 with C#, .NET MAUI, ASP.NET and Web APIs. 
+This is a semester-long project developed for COP4870 in Spring 2025 with C#, .NET MAUI, and Web APIs. 
 The application allows users to manage an inventory system with full CRUD operations, search functionality, a shopping cart, and a checkout process.
 
 ## Features
